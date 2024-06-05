@@ -1,6 +1,6 @@
 # Python Data Structures
 
-Welcome to the Python Data Structures repository! This repository is designed to help you learn and teach Python, focusing on fundamental data structures.
+This repository is designed to help you learn and teach Python, focusing on fundamental data structures.
 
 ## Contents
 
